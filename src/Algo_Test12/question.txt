@@ -1,0 +1,6 @@
+
+
+1．实现Ford-Fulkerson算法，求出给定图中从源点s到汇点t的最大流，并输出最小割。
+
+
+2. 设计与实现二部图匹配（Bipartite Matching）问题的算法。
